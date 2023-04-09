@@ -6,7 +6,7 @@ This directory is a brief example of a [Hexo](https://hexo.io/) site that can be
 
 ## Deploy Your Own
 
-Deploy your own Hexo project with Vercel.
+Deploy your own Hexo project with Vercel.想得美.md
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/hexo)
 
